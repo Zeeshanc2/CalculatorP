@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782893303563",
+    "firebase_url": "https://calculatorp-76ca3.firebaseio.com",
+    "project_id": "calculatorp-76ca3",
+    "storage_bucket": "calculatorp-76ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782893303563:android:62497a16c96f8a1585840e",
+        "android_client_info": {
+          "package_name": "com.example.calculatorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782893303563-id9dlluuvdgi01sig6fd4prfnplofbn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculatorp",
+            "certificate_hash": "c1d7ee674d6f7d47e1022a6c4c14215fe21c73be"
+          }
+        },
+        {
+          "client_id": "782893303563-pop24l8juknn9536unn45o2q7a7jfpep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVX32jt6aJ6LRDc3Rv3mX6ZINs2X4w_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782893303563-pop24l8juknn9536unn45o2q7a7jfpep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
